@@ -2,8 +2,8 @@
 
 ## HalfAdder
 
-</img scr="HALFADDERSrR.png"/>
+</img src="HALFADDERSCR.png"/>
 
 ## FullAdder
 
-</img scr="FULLADDERSrR.png"/>
+</img src="FULLADDERSCR.png"/>
