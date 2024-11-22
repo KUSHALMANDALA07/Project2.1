@@ -18,4 +18,4 @@
 
 ## Inc
 
-</img src="./INCSCR.png"/>
+<img src="./INCSCR.png"/>
